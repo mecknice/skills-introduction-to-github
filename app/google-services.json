@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1048799124351",
+    "project_id": "kalimani",
+    "storage_bucket": "kalimani.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048799124351:android:cde3c591996a36d3cb984a",
+        "android_client_info": {
+          "package_name": "com.example.kalimani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048799124351-sh5gfuhmodjln3ihq25lvfm1ptb9avdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kalimani",
+            "certificate_hash": "74ce2c71c148e3b11f1b6b8a13229ed41f7733ba"
+          }
+        },
+        {
+          "client_id": "1048799124351-r0kkjheem4ndd21dpmsp47g5ct8l09do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqsGyw4e7JUT_CzxEXL4N3WxKvHbKm5KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048799124351-8bu35q5dkvpaumgense16mqeq5u1rcph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1048799124351-hp91lv6bg46no2dc3b8ebhocnslsu025.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "swastik.Kali-Mani"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048799124351:android:41bf9d677b9ff2e6cb984a",
+        "android_client_info": {
+          "package_name": "com.jengahub.kalimani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048799124351-fnjeu9mld8u8kl7v0n6rfjebsboqdid3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jengahub.kalimani",
+            "certificate_hash": "eec3fae7028820153186fe9d764a6ca9d20d6e33"
+          }
+        },
+        {
+          "client_id": "1048799124351-r0kkjheem4ndd21dpmsp47g5ct8l09do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqsGyw4e7JUT_CzxEXL4N3WxKvHbKm5KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048799124351-8bu35q5dkvpaumgense16mqeq5u1rcph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1048799124351-hp91lv6bg46no2dc3b8ebhocnslsu025.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "swastik.Kali-Mani"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
