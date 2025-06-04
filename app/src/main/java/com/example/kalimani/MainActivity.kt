@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge(
-            statusBarStyle = SystemBarStyle.darkg(
+            statusBarStyle = SystemBarStyle.dark(
                Color(0xFF843014).toArgb()
             )
         )
